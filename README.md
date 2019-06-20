@@ -135,7 +135,6 @@ Download by Browser on: https://github.com/edoardottt/TweetPro
  
  https://www.edoardoottavianelli.it for contact me.
         
-            
-                    
-                                                            Edoardo Ottavianelli
+          
+     Edoardo Ottavianelli
  
