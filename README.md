@@ -132,6 +132,8 @@ GIT command on prompt: git -clone https://github.com/edoardottt/TweetPro.git
 Download by Browser on: https://github.com/edoardottt/TweetPro
 
 --------------------------
+IF YOU LIKED IT DROP A :star:
+--------------------------
  
  https://www.edoardoottavianelli.it for contact me.
         
