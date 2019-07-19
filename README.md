@@ -127,6 +127,8 @@ Like this:
 DOWNLOAD :satellite:
 --------------------------
 
+[v1.0](https://github.com/edoardottt/TweetPro/releases/tag/v1.0)
+
 GIT command on prompt: git -clone https://github.com/edoardottt/TweetPro.git
 
 Download by Browser on: https://github.com/edoardottt/TweetPro
