@@ -30,97 +30,51 @@ A tweet is stored as a JSON file :books:
 Like this:
 
     "tweet": {
-
       "id": 464731336310140929,
-
       "text": "RT @9GAGTweets: From Hulk... hue hue hue - http:\/\/t.co\/bNRmL7uUVf",
-
       "user": {
-
         "id": 534017128,
-
         "name": "jasmine s.",
-
         "screen_name": "jasminesaff",
-
         "followers_count": 311,
-
         "favourites_count": 0,
-
         "friends_count": 245,
-
         "verified": false,
-
         "statuses_count": 10704,
-
       },
-
       "retweeted_status": {
-
         "id": 464717213304627200,
-
         "text": "From Hulk... hue hue hue - http:\/\/t.co\/bNRmL7uUVf",
-
         "user": {
-
           "id": 471022109,
-
           "name": "9GAG Tweets",
-
           "screen_name": "9GAGTweets",
-
           "followers_count": 251032,
-
           "friends_count": 3,
-
           "favourites_count": 0,
-
           "statuses_count": 124287,
-
         },
-
         "retweet_count": 151,
-
-        ”favorite_count ": 46,
-
+        "favorite_count": 46,
         "entities": {
-
           "hashtags": [],
-
           "media": [
-
             {
-
               "media_url": "http:\/\/pbs.twimg.com\/media\/BnMB19sIIAAJv0O.jpg",
-
             }
-
           ]
-
         }
-
       },
-
       "retweet_count": 0,
-
       "favorite_count": 0,
-
       "entities": {
-
         "hashtags": []
-
         "media": [
-
           {
-
             "media_url": "http:\/\/pbs.twimg.com\/media\/BnMB19sIIAAJv0O.jpg",
-
           }
-
         ]
-
       }
-
     }
 
 --------------------------
