@@ -1,6 +1,7 @@
 # TweetPro
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/edoardottt/TweetPro)
+![Java Version](https://github.com/edoardottt/TweetPro/blob/master/java8.svg)
 
 ---------------------
 DESCRIPTION :mega:
