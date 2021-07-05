@@ -21,7 +21,7 @@ It can have also media.
 User :boy:
 -------
 
-An User is identified by an unique name (@ screen name), an unique numeric id and by
+An User is identified by an unique name ([@edoardottt2](https://twitter.com/edoardottt2)), an unique numeric id and by
 a name 'name', not unique. An User can be verified (which adds a sign of
 check blue to its name). An User has followers (followers), or other users who follow i
 tweets, and he himself is a follower of other users (following), that is users to whom the user is
