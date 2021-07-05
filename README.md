@@ -3,23 +3,23 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/edoardottt/TweetPro)
 ![Java Version](https://github.com/edoardottt/TweetPro/blob/master/java8.svg)
 
----------------------
-DESCRIPTION :mega:
----------------------
+
+Description :mega:
+------
 TweetPro is an University project of the Programming Metodologies Course held by Prof. Roberto Navigli.
 It's a Java tool that analyzes Tweets and other things related to Twitter.
 
--------------------
+
 Tweet :baby_chick:
--------------------
+-------
 
 It contains a numerical ID, a body, an User that wrote it and counter of retweets and likes.
 A tweet can be retweetted. In this case is itself a tweet, with an original tweet's reference.
 It can have also media.
 
---------------------
+
 User :boy:
---------------------
+-------
 
 An User is identified by an unique name (@ screen name), an unique numeric id and by
 a name 'name', not unique. An User can be verified (which adds a sign of
@@ -27,9 +27,9 @@ check blue to its name). An User has followers (followers), or other users who f
 tweets, and he himself is a follower of other users (following), that is users to whom the user is
 interested. An User can post tweets.
 
-------------------------
+
 A tweet is stored as a JSON file :books:
-------------------------
+-------
 
 Like this:
 
@@ -81,22 +81,20 @@ Like this:
       }
     }
 
---------------------------
-DOWNLOAD :satellite:
---------------------------
 
-[v1.0](https://github.com/edoardottt/TweetPro/releases/tag/v1.0)
+Download :satellite:
+--------
 
-GIT command on prompt: git -clone https://github.com/edoardottt/TweetPro.git
+- [v1.0](https://github.com/edoardottt/TweetPro/releases/tag/v1.0)
 
-Download by Browser on: https://github.com/edoardottt/TweetPro
+- `git clone https://github.com/edoardottt/TweetPro.git`
 
---------------------------
-IF YOU LIKED IT DROP A :star:
---------------------------
+
+If you liked it drop a :star:
+--------
  
  https://www.edoardoottavianelli.it for contact me.
         
           
-     Edoardo Ottavianelli ©
+                                                                    Edoardo Ottavianelli
  
