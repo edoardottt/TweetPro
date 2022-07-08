@@ -91,7 +91,6 @@ Download :satellite:
 - `git clone https://github.com/edoardottt/TweetPro.git`
 
 
-If you liked it drop a :star:
 --------
  
 [edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
