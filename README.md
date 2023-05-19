@@ -86,9 +86,9 @@ Like this:
 Download :satellite:
 --------
 
-- [v1.0](https://github.com/edoardottt/TweetPro/releases/tag/v1.0)
-
-- `git clone https://github.com/edoardottt/TweetPro.git`
+```console
+git clone https://github.com/edoardottt/TweetPro
+```
 
 
 --------
