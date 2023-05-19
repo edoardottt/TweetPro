@@ -7,7 +7,7 @@
 
 Description :mega:
 ------
-TweetPro is an University project of the *Programming Metodologies* Course held by Prof. Roberto Navigli.
+TweetPro is a University project of the *Programming Metodologies* Course held by Prof. Roberto Navigli.
 It's a Java tool that analyzes Tweets and other things related to Twitter.
 
 
