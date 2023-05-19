@@ -31,11 +31,11 @@ public class Tests2 {
 	@BeforeClass
 	public static void setup() {
 		try {
-			mediaTweet = TweetCorpus.parseFile(new File("mediaTrumpF.js")).iterator().next();			 
-			nomediaTweet = TweetCorpus.parseFile(new File("noMediaTrumpF.js")).iterator().next();
-			verified =  TweetCorpus.parseFile(new File("verified.js")).iterator().next();
-			tweets =  TweetCorpus.parseFile(new File("reducedTrumpF.js"));
-			nomediaTweet2 = TweetCorpus.parseFile(new File("nomediaTweet.js")).iterator().next();
+			mediaTweet = TweetCorpus.parseFile(new File("mediaTrumpF.json")).iterator().next();			 
+			nomediaTweet = TweetCorpus.parseFile(new File("noMediaTrumpF.json")).iterator().next();
+			verified =  TweetCorpus.parseFile(new File("verified.json")).iterator().next();
+			tweets =  TweetCorpus.parseFile(new File("reducedTrumpF.json"));
+			nomediaTweet2 = TweetCorpus.parseFile(new File("nomediaTweet.json")).iterator().next();
 
 			//((TweetCorpusImpl)tweets).setCountSketchStrategy();
 			//((TweetCorpusImpl)tweets).setLogLogStrategy();

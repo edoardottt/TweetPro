@@ -28,10 +28,10 @@ public class Tests {
 	@Before
 	public void setup() {
 		try {
-			tweets =  TweetCorpusInterface.parseFile(new File("tweetsCorpus.js"));
-			tweet = TweetCorpusInterface.parseFile(new File("tweet.js")).iterator().next();
-			mediaTweet = TweetCorpusInterface.parseFile(new File("mediaTweet.js")).iterator().next();			 
-			nomediaTweet = TweetCorpusInterface.parseFile(new File("nomediaTweet.js")).iterator().next();			
+			tweets =  TweetCorpusInterface.parseFile(new File("tweetsCorpus.json"));
+			tweet = TweetCorpusInterface.parseFile(new File("tweet.json")).iterator().next();
+			mediaTweet = TweetCorpusInterface.parseFile(new File("mediaTweet.json")).iterator().next();			 
+			nomediaTweet = TweetCorpusInterface.parseFile(new File("nomediaTweet.json")).iterator().next();			
 		} catch (Exception e) {
 			e.printStackTrace();
 			fail();
