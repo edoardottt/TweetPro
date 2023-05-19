@@ -3,7 +3,7 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/edoardottt/TweetPro)
 ![Java Version](https://github.com/edoardottt/images/blob/main/TweetPro/java8.svg)
 
-**Follow [@edoardottt](https://twitter.com/edoardottt2) on Twitter!**
+**Follow [@edoardottt2](https://twitter.com/edoardottt2) on Twitter!**
 
 Description :mega:
 ------
