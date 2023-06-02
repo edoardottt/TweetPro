@@ -34,6 +34,7 @@ A tweet is stored as a JSON file :books:
 
 Like this:
 
+```JSON
     "tweet": {
       "id": 464731336310140929,
       "text": "RT @9GAGTweets: From Hulk... hue hue hue - http:\/\/t.co\/bNRmL7uUVf",
@@ -81,7 +82,7 @@ Like this:
         ]
       }
     }
-
+```
 
 Download :satellite:
 --------
