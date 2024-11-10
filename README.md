@@ -91,8 +91,7 @@ Download :satellite:
 git clone https://github.com/edoardottt/TweetPro
 ```
 
-
 --------
  
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
+[edoardottt.com](https://edoardottt.com/) to contact me.
  
